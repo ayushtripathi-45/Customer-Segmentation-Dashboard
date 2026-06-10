@@ -30,6 +30,14 @@
 
 ---
 
+
+<div align="center">
+
+[![Live-Link](https://img.shields.io/badge/Live-Link-0077B5?style=for-the-badge\&logo=live-link\&logoColor=white)](https://dashboard-customer-segmentation.streamlit.app/)
+          
+</div> 
+
+---
 # 🎥 Live Dashboard Demo
 
 <div align="center">
