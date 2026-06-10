@@ -34,7 +34,12 @@
 
 <div align="center">
 
-<img src="assets/demo/dashboard-demo.gif" width="100%" alt="Dashboard Demo"/>
+
+
+https://github.com/user-attachments/assets/130b36f3-8010-42a6-ac9e-50f8b2d17343
+
+
+
 
 ### Complete Dashboard Walkthrough
 
