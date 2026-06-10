@@ -22,6 +22,13 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Thank+You+For+Visiting!;Happy+Coding!;Keep+Building+Amazing+Projects!" />
+
+</div>
+
+---
 
 # 🎥 Live Dashboard Demo
 
@@ -37,11 +44,20 @@ Upload Dataset → Customer Analysis → K-Means Clustering → PCA Visualizatio
 
 ---
 
+# 📌 Project Overview
+
+Customer Segmentation Dashboard is a Data Science and Machine Learning project designed to analyze customer purchasing behavior and automatically group customers into meaningful business segments.
+
+Using K-Means Clustering, customers with similar characteristics are grouped together, helping businesses understand customer behavior and create targeted marketing strategies.
+
+---
+
 # 📸 Screenshots
 
 ## ☀️ Light Mode
 
-<img src="assets/screenshots/light-dashboard.png" width="100%">
+<img width="1363" height="595" alt="image" src="https://github.com/user-attachments/assets/c78a1b00-4501-4164-8858-9fb09b89f6e4" />
+
 
 ### Features
 
@@ -54,7 +70,8 @@ Upload Dataset → Customer Analysis → K-Means Clustering → PCA Visualizatio
 
 ## 🌙 Dark Mode
 
-<img src="assets/screenshots/dark-dashboard.png" width="100%">
+<img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/69e512f3-1232-4480-9fcb-082edfa1af31" />
+
 
 ### Features
 
@@ -62,14 +79,6 @@ Upload Dataset → Customer Analysis → K-Means Clustering → PCA Visualizatio
 * Better Data Visibility
 * Modern SaaS Aesthetics
 * Reduced Eye Strain
-
----
-
-# 📌 Project Overview
-
-Customer Segmentation Dashboard is a Data Science and Machine Learning project designed to analyze customer purchasing behavior and automatically group customers into meaningful business segments.
-
-Using K-Means Clustering, customers with similar characteristics are grouped together, helping businesses understand customer behavior and create targeted marketing strategies.
 
 ---
 
